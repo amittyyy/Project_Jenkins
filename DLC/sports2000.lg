@@ -1,0 +1,86 @@
+
+                Thu Aug 10 15:58:20 2017
+[2017/08/10@15:58:20.348-0500] P-10672      T-6188  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/10@15:58:20.353-0500] P-10672      T-6188  I ABL      : (15321) Before Image Log Initialization at block 0  offset 69719328. 
+[2017/08/10@15:58:20.399-0500] P-10672      T-6188  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/10@16:30:23.011-0500] P-10672      T-6188  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/10@16:30:23.015-0500] P-10672      T-6188  I ABL      : (15743) Before Image Log Completion at Block 0 Offset 295. 
+[2017/08/10@16:30:23.033-0500] P-10672      T-6188  I ABL      : (334)   Single-user session end. 
+
+                Fri Aug 11 11:09:41 2017
+[2017/08/11@11:09:41.867-0500] P-12384      T-9084  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/11@11:09:41.872-0500] P-12384      T-9084  I ABL      : (15321) Before Image Log Initialization at block 0  offset 295. 
+[2017/08/11@11:09:41.876-0500] P-12384      T-9084  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/11@11:11:50.480-0500] P-12384      T-9084  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/11@11:11:50.480-0500] P-12384      T-9084  I ABL      : (15743) Before Image Log Completion at Block 0 Offset 355. 
+[2017/08/11@11:11:50.495-0500] P-12384      T-9084  I ABL      : (334)   Single-user session end. 
+
+                Fri Aug 11 14:21:59 2017
+[2017/08/11@14:21:59.916-0500] P-4044       T-12608 I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/11@14:21:59.920-0500] P-4044       T-12608 I ABL      : (15321) Before Image Log Initialization at block 0  offset 355. 
+[2017/08/11@14:21:59.924-0500] P-4044       T-12608 I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/11@16:00:49.257-0500] P-4044       T-12608 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/11@16:00:49.260-0500] P-4044       T-12608 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 415. 
+[2017/08/11@16:00:49.279-0500] P-4044       T-12608 I ABL      : (334)   Single-user session end. 
+
+                Mon Aug 14 08:58:12 2017
+[2017/08/14@08:58:12.981-0500] P-9788       T-2964  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/14@08:58:12.989-0500] P-9788       T-2964  I ABL      : (15321) Before Image Log Initialization at block 0  offset 415. 
+[2017/08/14@08:58:13.019-0500] P-9788       T-2964  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/14@09:05:08.473-0500] P-9788       T-2964  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/14@09:05:08.473-0500] P-9788       T-2964  I ABL      : (15743) Before Image Log Completion at Block 0 Offset 475. 
+[2017/08/14@09:05:08.492-0500] P-9788       T-2964  I ABL      : (334)   Single-user session end. 
+
+                Fri Aug 25 15:34:21 2017
+[2017/08/25@15:34:21.502-0500] P-13184      T-7084  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/25@15:34:21.509-0500] P-13184      T-7084  I ABL      : (15321) Before Image Log Initialization at block 0  offset 475. 
+[2017/08/25@15:34:21.515-0500] P-13184      T-7084  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+
+                Mon Aug 28 08:53:04 2017
+[2017/08/28@08:53:04.957-0500] P-13184      T-7084  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/28@08:53:04.962-0500] P-13184      T-7084  I ABL      : (15743) Before Image Log Completion at Block 0 Offset 535. 
+[2017/08/28@08:53:04.976-0500] P-13184      T-7084  I ABL      : (334)   Single-user session end. 
+
+                Mon Aug 28 09:45:03 2017
+[2017/08/28@09:45:03.004-0500] P-12876      T-13668 I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/28@09:45:03.010-0500] P-12876      T-13668 I ABL      : (15321) Before Image Log Initialization at block 0  offset 535. 
+[2017/08/28@09:45:03.014-0500] P-12876      T-13668 I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/28@15:06:16.727-0500] P-12876      T-13668 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/28@15:06:16.732-0500] P-12876      T-13668 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 595. 
+[2017/08/28@15:06:16.786-0500] P-12876      T-13668 I ABL      : (334)   Single-user session end. 
+
+                Mon Aug 28 15:10:34 2017
+[2017/08/28@15:10:34.556-0500] P-11868      T-4264  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/28@15:10:34.562-0500] P-11868      T-4264  I ABL      : (15321) Before Image Log Initialization at block 0  offset 595. 
+[2017/08/28@15:10:34.565-0500] P-11868      T-4264  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/28@15:37:29.635-0500] P-11868      T-4264  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/28@15:37:29.636-0500] P-11868      T-4264  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 7252. 
+[2017/08/28@15:37:29.646-0500] P-11868      T-4264  I ABL      : (334)   Single-user session end. 
+
+                Mon Aug 28 16:44:27 2017
+[2017/08/28@16:44:27.727-0500] P-11048      T-9788  I ABL      : (451)   Single-user session begin for atimalsina on CON:. 
+[2017/08/28@16:44:27.735-0500] P-11048      T-9788  I ABL      : (15321) Before Image Log Initialization at block 4  offset 7252. 
+[2017/08/28@16:44:27.740-0500] P-11048      T-9788  I ABL      : (7129)  Usr 0 set name to atimalsina. 
+[2017/08/28@16:45:24.370-0500] P-11048      T-9788  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/28@16:45:24.370-0500] P-11048      T-9788  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 7312. 
+[2017/08/28@16:45:24.385-0500] P-11048      T-9788  I ABL      : (334)   Single-user session end. 
+
+                Thu Aug 31 09:32:36 2017
+[2017/08/31@09:32:36.848-0500] P-3168       T-9888  I ABL      : (451)   Single-user session begin for ATimalsina on CON:. 
+[2017/08/31@09:32:36.854-0500] P-3168       T-9888  I ABL      : (15321) Before Image Log Initialization at block 4  offset 7312. 
+[2017/08/31@09:32:36.885-0500] P-3168       T-9888  I ABL      : (7129)  Usr 0 set name to ATimalsina. 
+[2017/08/31@16:55:08.350-0500] P-3168       T-9888  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2017/08/31@16:55:08.353-0500] P-3168       T-9888  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 7372. 
+[2017/08/31@16:55:08.481-0500] P-3168       T-9888  I ABL      : (334)   Single-user session end. 
+
+                Wed Oct 25 12:56:01 2017
+[2017/10/25@12:56:01.009-0500] P-13832      T-6028  I ABL      : (451)   Single-user session begin for ATimalsina on CON:. 
+[2017/10/25@12:56:01.025-0500] P-13832      T-6028  I ABL      : (15321) Before Image Log Initialization at block 4  offset 7372. 
+[2017/10/25@12:56:01.072-0500] P-13832      T-6028  I ABL      : (7129)  Usr 0 set name to ATimalsina. 
+
+                Fri Nov 10 09:03:07 2017
+[2017/11/10@09:03:07.049-0600] P-15364      T-14268 I ABL      : (451)   Single-user session begin for ATimalsina on CON:. 
+[2017/11/10@09:03:07.065-0600] P-15364      T-14268 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2017/11/10@09:03:07.080-0600] P-15364      T-14268 I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 7432 upd 40. 
+[2017/11/10@09:03:07.080-0600] P-15364      T-14268 I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2017/11/10@09:03:07.112-0600] P-15364      T-14268 I ABL      : (7129)  Usr 0 set name to ATimalsina. 
